@@ -31,7 +31,7 @@ import base64
 import subprocess
 from concurrent.futures import ThreadPoolExecutor
 
-logo = """"
+logo = "
                                                           
          ,----,                                           
        .'   .`|      ,-.                                  
@@ -152,4 +152,3 @@ class Main:
 
 try:Main()
 except Exception as e:exit(str(e))
-
