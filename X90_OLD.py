@@ -31,7 +31,7 @@ import base64
 import subprocess
 from concurrent.futures import ThreadPoolExecutor
 
-logo = """
+logo = """"
                                                           
          ,----,                                           
        .'   .`|      ,-.                                  
